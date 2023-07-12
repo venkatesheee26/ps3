@@ -1,0 +1,8 @@
+D:\day3\ps-1\ps-1\bin\Debug\ps-1.exe.config
+D:\day3\ps-1\ps-1\bin\Debug\ps-1.exe
+D:\day3\ps-1\ps-1\bin\Debug\ps-1.pdb
+D:\day3\ps-1\ps-1\obj\Debug\ps-1.csproj.AssemblyReference.cache
+D:\day3\ps-1\ps-1\obj\Debug\ps-1.csproj.SuggestedBindingRedirects.cache
+D:\day3\ps-1\ps-1\obj\Debug\ps-1.csproj.CoreCompileInputs.cache
+D:\day3\ps-1\ps-1\obj\Debug\ps-1.exe
+D:\day3\ps-1\ps-1\obj\Debug\ps-1.pdb
